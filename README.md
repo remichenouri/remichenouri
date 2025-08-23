@@ -43,8 +43,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=default)
 
 ### 🤝 Connectons-nous !
-📧 [votre-email@domain.com](chenouri.remi@proton.me)
-💼 [LinkedIn](https://www.linkedin.com/in/remi-chenouri/)
+📧 chenouri.remi@proton.me
+💼 https://www.linkedin.com/in/remi-chenouri/
 📱 Ouvert aux opportunités **health tech** et **remote**
 
 ---
