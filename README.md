@@ -104,7 +104,7 @@
 ### 🤝 Connectons-nous !
 📧 chenouri.remi@proton.me
 💼 https://www.linkedin.com/in/remi-chenouri/
-📱 Ouvert aux opportunités **health tech** et **remote**
+📱 Ouvert aux opportunités **health tech**, **RH**, **gaming** et **remote**
 
 ---
 *💡 Passionné par l'intersection entre data science et neurosciences, je transforme les données cliniques en insights actionnables pour améliorer le diagnostic et le suivi des troubles neurodéveloppementaux.*
