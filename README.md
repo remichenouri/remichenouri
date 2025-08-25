@@ -17,25 +17,25 @@
 **Application d'analyse prédictive santé mentale**
 - Algorithmes de classification
 - Dashboard interactif cliniciens
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-app](https://depistage-depression.streamlit.app/))
 
 #### 🔬 Observatoire TDAH France
 **Analyse épidémiologique et insights data-driven**
 - Collecte et traitement de données sur prévalence TDAH
 - Visualisations interactives Streamlit
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-app](https://observatoire-tdah-france.streamlit.app/))
 
 #### 🧠 Depistage Autisme
 **Auto-questionnaire DSM-5 & explicabilité SHAP**
 - RandomForest optimisé (F1 96%) + validation clinique
 - Moteur de recommandations personnalisées
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-app](https://neuroscreen-workplace.streamlit.app/))
 
 ### ⚡ Depistage TDAH
 **Screening TDAH adultes en ligne**
 -Pipeline données + détection anomalies, F1 96,2%
 - Module LIME/SHAP pour décisions transparentes
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-ap](https://depistage-tdah.streamlit.app/)p)
 
 ### 💼 Projets Phares RH
 
@@ -43,19 +43,19 @@
 **Outil de dépistage IA pour environnements professionnels**
 - Modèles ML pour détection troubles neurodéveloppementaux
 - Interface utilisateur intuitive
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-app](https://neuroscreen-workplace.streamlit.app/))
 
 ### 🎮 Ubisoft People Analytics
 **Prototype workforce planning & diversité**
 - ETL SQL ➜ Power BI, KPI temps réel
 - Réduction du temps de reporting RH de 30 h/mois
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-app](https://ubisoftpeopleanalytics.streamlit.app/))
 
-🌍 Gaming Workforce Observatory
+**🌍 Gaming Workforce Observatory**
 **Benchmark talents & rémunérations dans le gaming**
 - Agrégation d’offres d’emploi + analyses salariales
 - Visualisations Altair interactives
-- [💻 Tester l'app](lien-app)
+- [💻 Tester l'app]([lien-app](https://gaming-workforce-observatory.streamlit.app/))
 
 
 ### 🛠️ Stack Technique
