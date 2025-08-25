@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Rémi Chenouri
 
-## 🧠 Data Analyst spécialisé en Neurodéveloppement & IA Médicale
+## 🧠 Data Analyst spécialisé en Neurodéveloppement & IA
 
 **En recherche active** de poste Data Analyst avec possibilité de remote.
 *Expertise unique combinant compétences techniques et cliniques en troubles neurodéveloppementaux.*
