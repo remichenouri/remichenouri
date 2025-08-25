@@ -14,53 +14,68 @@
 ### 💼 Projets Phares
 🔬 Observatoire TDAH France
 Analyse épidémiologique et insights data-driven
+
 Collecte et traitement de données sur la prévalence TDAH
+
 Visualisations interactives Streamlit
+
 📊 Voir le projet
 
 🧩 Neuroscreen Workplace
 Outil de dépistage IA pour environnements professionnels
+
 Modèles ML pour détection des troubles neurodéveloppementaux
+
 Interface utilisateur intuitive
+
 🚀 Démo live
 
 📱 Streamlit Depression
 Application d’analyse prédictive santé mentale
+
 Algorithmes de classification PHQ-9
+
 Dashboard interactif à destination des cliniciens
+
 💻 Tester l’app
 
 🧠 Depistage Autisme
 Auto-questionnaire DSM-5 & explicabilité SHAP
+
 RandomForest optimisé (F1 96%) + validation clinique
+
 Moteur de recommandations personnalisées
+
 🔗 Accéder à l’outil
 
 ⚡ Depistage TDAH
 Screening TDAH adultes en ligne
+
 Pipeline données + détection anomalies, F1 96,2%
+
 Module LIME/SHAP pour décisions transparentes
+
 🔗 Accéder à l’outil
 
 🎮 Ubisoft People Analytics
 Prototype workforce planning & diversité
+
 ETL SQL ➜ Power BI, KPI temps réel
+
 Réduction du temps de reporting RH de 30 h/mois
+
 (Repository privé – démo sur demande)
 
 🌍 Gaming Workforce Observatory
 Benchmark talents & rémunérations dans le gaming
-Agrégation d’offres d’emploi + analyses salariales
-Visualisations Altair interactives
-📈 Explorer le tableau de bord
 
+Agrégation d’offres d’emploi + analyses salariales
+
+Visualisations Altair interactives
+
+📈 Explorer le tableau de bord
 ### 🛠️ Stack Technique
-**Langages :** Python, SQL, R
-**Frameworks :** Streamlit, Pandas, NumPy, Scikit-learn
-**Visualisation :** Matplotlib, Seaborn, Plotly
-**Bases de données :** PostgreSQL, SQLite
-**Outils :** Git, Jupyter, Docker
-**Spécialisations :** Statistical analysis, ML médical, EDA
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
 ![Streamlit](https://img.shields.io/badge/Streamlit-🦩-ff4b4b)
