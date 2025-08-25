@@ -6,10 +6,10 @@
 *Expertise unique combinant compétences techniques et cliniques en troubles neurodéveloppementaux.*
 
 ## Sommaire
-- [Positionnement](#positionnement)
-- [Projets phares](#projets)
-- [Stack technique](#Stack)
-- [Statistiques GitHub](#Statistiques)
+- [Positionnement](#mon-positionnement)
+- [Projets phares](#projets-phares)
+- [Stack technique](#stack-technique)
+- [Statistiques GitHub](#statistiques-github)
 - [Contact](#contact)
 
 
