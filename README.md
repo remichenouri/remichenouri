@@ -11,13 +11,6 @@
 - **Technologies :** Python, SQL, Streamlit, analyse statistique, ML
 - **Localisation :** Île-de-France | Remote | International
 
-
-- [Projets Phares Mental Tec](#Projets Phares Mental Tec)
-- [Projets Phares RH](#Projets Phares RH)
-- [Stack technique](#stack-technique)
-- [Statistiques GitHub](#statistiques-github)
-- [Connectons-nous !](#Connectons-nous !)
-
 ### 💼 Projets Phares Mental Tech
 
 #### 📱 Streamlit Depression
@@ -105,13 +98,17 @@
 ![Méthodologie de recherche](https://img.shields.io/badge/Méthodologie_recherche-483D8B?style=for-the-badge&logo=ResearchGate&logoColor=white)
 
 
-### 📈 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=default)
+
+
 
 ### 🤝 Connectons-nous !
 📧 chenouri.remi@proton.me
 💼 https://www.linkedin.com/in/remi-chenouri/
 📱 Ouvert aux opportunités **health tech**, **RH**, **gaming** et **remote**
+
+### 📈 Statistiques GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=default)
+[![Remi's GitHub stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=react)](https://github.com/remichenouri)
 
 ---
 *💡 Passionné par l'intersection entre data science et neurosciences, je transforme les données cliniques en insights actionnables pour améliorer le diagnostic et le suivi des troubles neurodéveloppementaux.*
