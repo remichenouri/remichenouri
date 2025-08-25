@@ -5,19 +5,19 @@
 **En recherche active** de poste Data Analyst avec possibilité de remote.
 *Expertise unique combinant compétences techniques et cliniques en troubles neurodéveloppementaux.*
 
+## Sommaire
+- [Positionnement](#positionnement)
+- [Projets phares](#projets)
+- [Stack technique](#Stack)
+- [Statistiques GitHub](#Statistiques)
+- [Contact](#contact)
+
 
 ### 🎯 Mon Positionnement
 - **Double expertise :** Analyse de données + connaissances cliniques (TDAH, autisme et autres troubles neurodéveloppementaux)
 - **Secteurs cibles :** Health tech, médical, neurosciences appliquées, gaming, RH
 - **Technologies :** Python, SQL, Streamlit, analyse statistique, ML
 - **Localisation :** Île-de-France | Remote | International
-- 
-## Sommaire
-- [Positionnement](#positionnement)
-- [Projets phares](#projets-phares)
-- [Stack technique](#stack-technique)
-- [Statistiques GitHub](#statistiques-github)
-- [Contact](#contact)
 
 ## Projets phares
 ## 💼 Projets phares – Mental Tech
