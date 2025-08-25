@@ -5,12 +5,20 @@
 **En recherche active** de poste Data Analyst avec possibilité de remote.
 *Expertise unique combinant compétences techniques et cliniques en troubles neurodéveloppementaux.*
 
+
 ### 🎯 Mon Positionnement
 - **Double expertise :** Analyse de données + connaissances cliniques (TDAH, autisme et autres troubles neurodéveloppementaux)
 - **Secteurs cibles :** Health tech, médical, neurosciences appliquées, gaming, RH
 - **Technologies :** Python, SQL, Streamlit, analyse statistique, ML
 - **Localisation :** Île-de-France | Remote | International
-
+- 
+## Sommaire
+- [Positionnement](#positionnement)
+- [Projets phares](#projets-phares)
+- [Stack technique](#stack-technique)
+- [Statistiques GitHub](#statistiques-github)
+- [Contact](#contact)
+- 
 ### 💼 Projets Phares Mental Tech
 
 #### 📱 Streamlit Depression
@@ -57,6 +65,19 @@
 - Visualisations Altair interactives
 - [💻 Tester l'app](https://gaming-workforce-observatory.streamlit.app/)
 
+## Projets phares
+
+| Projet | Problème résolu | Tech | Live |
+|--------|-----------------|------|------|
+| Streamlit Depression | Prédiction PHQ-9 et dashboard cliniciens | Python · Streamlit | [Tester](https://depistage-depression.streamlit.app/) |
+| Observatoire TDAH 🇫🇷 | Analyse épidémiologique nationale | Python · Streamlit | [Voir](https://observatoire-tdah-france.streamlit.app/) |
+| Depistage Autisme | Auto-questionnaire DSM-5 + SHAP | RF · SHAP · Streamlit | [Tester](https://depistage-autisme.streamlit.app/) |
+| Depistage TDAH | Screening adultes (F1 96 %) + LIME/SHAP | RF · Streamlit | [Tester](https://depistage-tdah.streamlit.app/) |
+| Neuroscreen Workplace | Dépistage IA en entreprise | Scikit-learn · Streamlit | [Demo](https://neuroscreen-workplace.streamlit.app/) |
+| Ubisoft People Analytics | Workforce planning & diversité | SQL · Power BI | [Demo](https://ubisoftpeopleanalytics.streamlit.app/) |
+| Gaming Workforce Observatory | Benchmark talents & salaires gaming | Python · Altair | [Explorer](https://gaming-workforce-observatory.streamlit.app/) |
+
+> **Impact :** +25 % de détection précoce TDAH · 5 000+ utilisateurs · reporting RH −30 h/mois  
 
 ### 🛠️ Stack Technique
 
@@ -107,7 +128,6 @@
 📱 Ouvert aux opportunités **health tech**, **RH**, **gaming** et **remote**
 
 ### 📈 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=default)
 [![Remi's GitHub stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=react)](https://github.com/remichenouri)
 
 ---
