@@ -8,8 +8,8 @@
 ## Sommaire
 - [Positionnement](#mon-positionnement)
 - [Projets phares](#projets-phares)
-- [Stack technique](#stack-technique)
-- [Statistiques GitHub](#statistiques-github)
+- [Stack technique](#%EF%B8%8F-stack-technique)
+- [Statistiques GitHub](#-statistiques-github)
 - [Contact](#contact)
 
 
