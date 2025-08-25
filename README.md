@@ -18,64 +18,27 @@
 - [Stack technique](#stack-technique)
 - [Statistiques GitHub](#statistiques-github)
 - [Contact](#contact)
-- 
-### 💼 Projets Phares Mental Tech
-
-#### 📱 Streamlit Depression
-**Application d'analyse prédictive santé mentale**
-- Algorithmes de classification
-- Dashboard interactif cliniciens
-- [💻 Tester l'app](https://depistage-depression.streamlit.app/)
-
-#### 🔬 Observatoire TDAH France
-**Analyse épidémiologique et insights data-driven**
-- Collecte et traitement de données sur prévalence TDAH
-- Visualisations interactives Streamlit
-- [💻 Tester l'app](https://observatoire-tdah-france.streamlit.app/)
-
-#### 🧠 Depistage Autisme
-**Auto-questionnaire DSM-5 & explicabilité SHAP**
-- RandomForest optimisé (F1 96%) + validation clinique
-- Moteur de recommandations personnalisées
-- [💻 Tester l'app](https://neuroscreen-workplace.streamlit.app/)
-
-### ⚡ Depistage TDAH
-**Screening TDAH adultes en ligne**
--Pipeline données + détection anomalies, F1 96,2%
-- Module LIME/SHAP pour décisions transparentes
-- [💻 Tester l'app](https://depistage-tdah.streamlit.app/à)
-
-### 💼 Projets Phares RH
-
-#### 🧩 Neuroscreen Workplace
-**Outil de dépistage IA pour environnements professionnels**
-- Modèles ML pour détection troubles neurodéveloppementaux
-- Interface utilisateur intuitive
-- [💻 Tester l'app](https://neuroscreen-workplace.streamlit.app/)
-
-### 🎮 Ubisoft People Analytics
-**Prototype workforce planning & diversité**
-- ETL SQL ➜ Power BI, KPI temps réel
-- Réduction du temps de reporting RH de 30 h/mois
-- [💻 Tester l'app](https://ubisoftpeopleanalytics.streamlit.app/)
-
-**🌍 Gaming Workforce Observatory**
-**Benchmark talents & rémunérations dans le gaming**
-- Agrégation d’offres d’emploi + analyses salariales
-- Visualisations Altair interactives
-- [💻 Tester l'app](https://gaming-workforce-observatory.streamlit.app/)
 
 ## Projets phares
+## 💼 Projets phares – Mental Tech
 
-| Projet | Problème résolu | Tech | Live |
-|--------|-----------------|------|------|
-| Streamlit Depression | Prédiction PHQ-9 et dashboard cliniciens | Python · Streamlit | [Tester](https://depistage-depression.streamlit.app/) |
-| Observatoire TDAH 🇫🇷 | Analyse épidémiologique nationale | Python · Streamlit | [Voir](https://observatoire-tdah-france.streamlit.app/) |
-| Depistage Autisme | Auto-questionnaire DSM-5 + SHAP | RF · SHAP · Streamlit | [Tester](https://depistage-autisme.streamlit.app/) |
-| Depistage TDAH | Screening adultes (F1 96 %) + LIME/SHAP | RF · Streamlit | [Tester](https://depistage-tdah.streamlit.app/) |
-| Neuroscreen Workplace | Dépistage IA en entreprise | Scikit-learn · Streamlit | [Demo](https://neuroscreen-workplace.streamlit.app/) |
-| Ubisoft People Analytics | Workforce planning & diversité | SQL · Power BI | [Demo](https://ubisoftpeopleanalytics.streamlit.app/) |
-| Gaming Workforce Observatory | Benchmark talents & salaires gaming | Python · Altair | [Explorer](https://gaming-workforce-observatory.streamlit.app/) |
+| Projet | Problème / Fonctionnalités clés | Tech | Live |
+|--------|---------------------------------|------|------|
+| **Streamlit Depression** | Prédiction score PHQ-9 · Dashboard cliniciens interactif | Python · Streamlit · scikit-learn | [Explorer](https://depistage-depression.streamlit.app/) |
+| **Observatoire TDAH 🇫🇷** | Analyse épidémiologique nationale · Visualisations interactives | Python · Streamlit · Plotly | [Explorer](https://observatoire-tdah-france.streamlit.app/) |
+| **Dépistage Autisme** | Auto-questionnaire DSM-5 · Explicabilité SHAP (F1 96 %) | Random Forest · SHAP · Streamlit | [Explorer](https://depistage-autisme.streamlit.app/) |
+| **Dépistage TDAH** | Screening adultes (F1 96 %) · LIME / SHAP transparence | Random Forest · Streamlit | [Explorer](https://depistage-tdah.streamlit.app/) |
+
+## 💼 Projets phares – RH / Gaming
+
+| Projet | Problème / Fonctionnalités clés | Tech | Live |
+|--------|---------------------------------|------|------|
+| **Neuroscreen Workplace** | Dépistage IA en entreprise · Interface RH | Scikit-learn · Streamlit | [Explorer](https://neuroscreen-workplace.streamlit.app/) |
+| **Ubisoft People Analytics** | Workforce planning & diversité · KPI temps réel (−30 h/mois reporting) | SQL · Power BI | [Explorer](https://ubisoftpeopleanalytics.streamlit.app/) |
+| **Gaming Workforce Observatory** | Benchmark talents & salaires gaming · Charts Altair | Python · Altair · Web scraping | [Explorer](https://gaming-workforce-observatory.streamlit.app/) |
+
+> **Impact global :** 5 000 + utilisateurs · F1 ⩾ 96 % · reporting RH –30 h/mois
+
 
 > **Impact :** +25 % de détection précoce TDAH · 5 000+ utilisateurs · reporting RH −30 h/mois  
 
@@ -83,52 +46,24 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
-![Streamlit](https://img.shields.io/badge/Streamlit-🦩-ff4b4b)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Data-yellow?logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue?logo=tableau)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-00ACC1?logo=googleanalytics&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-00B4AA?logo=metabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)  
 ![Airflow](https://img.shields.io/badge/Airflow-Orchestration-lightblue?logo=apache%20airflow)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=github)
-
-**Data Visualisation**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Data-yellow?style=for-the-badge&logo=powerbi&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-00ACC1?style=for-the-badge&logo=Google-Data-Studio&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-00B4AA?style=for-the-badge&logo=Metabase&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Business Intelligence**  
-![KPI](https://img.shields.io/badge/Key_Performance_Indicators-0066CC?style=for-the-badge&logo=simpleanalytics&logoColor=white)
-![Dashboards](https://img.shields.io/badge/Dashboards-593196?style=for-the-badge&logo=grafana&logoColor=white)
-![Storytelling](https://img.shields.io/badge/Storytelling-FF6F00?style=for-the-badge&logo=storyblok&logoColor=white)
-![Analyse des besoins](https://img.shields.io/badge/Analyse_des_besoins-1E90FF?style=for-the-badge&logo=Jira&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big_Data-007ACC?style=for-the-badge&logo=Hadoop&logoColor=white)
-
-**Machine Learning**  
-![ML supervisé](https://img.shields.io/badge/ML_supervisé-003366?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![ML non-supervisé](https://img.shields.io/badge/ML_non_supervisé-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Validation croisée](https://img.shields.io/badge/Validation_croisée-4B0082?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Analyse prédictive](https://img.shields.io/badge/Analyse_prédictive-008080?style=for-the-badge&logo=keras&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-FFA500?style=for-the-badge&logo=dbt&logoColor=white)
-
-**Méthodologie**  
-![Gestion de projet](https://img.shields.io/badge/Gestion_de_projet-00838F?style=for-the-badge&logo=Asana&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-228B22?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![Cahier des charges](https://img.shields.io/badge/Cahier_des_charges-DAA520?style=for-the-badge&logo=Confluence&logoColor=white)
-![Analyse des besoins](https://img.shields.io/badge/Analyse_des_besoins-FFB300?style=for-the-badge&logo=Trello&logoColor=white)
-![Méthodologie de recherche](https://img.shields.io/badge/Méthodologie_recherche-483D8B?style=for-the-badge&logo=ResearchGate&logoColor=white)
-
-
-
-
-
-### 🤝 Connectons-nous !
-📧 chenouri.remi@proton.me
-💼 https://www.linkedin.com/in/remi-chenouri/
-📱 Ouvert aux opportunités **health tech**, **RH**, **gaming** et **remote**
+![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-FF6F00?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/ML-PyTorch-EE4C2C?logo=pytorch)
+![dbt](https://img.shields.io/badge/ETL-dbt-FF694B?logo=dbt)
 
 ### 📈 Statistiques GitHub
 [![Remi's GitHub stats](https://github-readme-stats.vercel.app/api?username=remichenouri&show_icons=true&theme=react)](https://github.com/remichenouri)
 
+## Contact
+📧 chenouri.remi@proton.me  
+🔗 [LinkedIn](https://www.linkedin.com/in/remi-chenouri/)  
+
 ---
-*💡 Passionné par l'intersection entre data science et neurosciences, je transforme les données cliniques en insights actionnables pour améliorer le diagnostic et le suivi des troubles neurodéveloppementaux.*
+*💡 Passionné par l’intersection data science & neurosciences, je transforme les données cliniques en insights pour améliorer le diagnostic, le suivi et le bien-être au travail.*
