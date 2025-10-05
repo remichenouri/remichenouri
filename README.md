@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Rémi Chenouri
 
-## 🧠 Data Analyst spécialisé People Analytics | Gaming & Tech Industries
+## 🧠 Data Analyst | Recherche clinique & troubles neurodéveloppementaux | IA médicale appliquée | Python • SQL
 
 **En recherche active** de poste Data Analyst avec possibilité de remote.
 *Expertise unique combinant compétences techniques et cliniques en troubles neurodéveloppementaux.*
